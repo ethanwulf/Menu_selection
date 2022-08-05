@@ -1,2 +1,2 @@
 # Menu_selection
-Neato coding possibility making a Menu with C++
+Making a basic  menu selection with C++
